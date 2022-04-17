@@ -1,2 +1,8 @@
 # sift-algorithm
-A SIFT computer vision algorithm implementation
+An implementation of the SIFT computer vision algorithm 
+for feature extraction of images using OpenCV library. 
+Use with ten sample external images. 
+
+The algorithm has been tested with benchmarking data. 
+
+LICENSE - 3-clause BSD
