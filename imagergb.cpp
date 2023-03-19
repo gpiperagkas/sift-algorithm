@@ -2,7 +2,7 @@
 //  imagergb.cpp
 //  colorDescriptor
 //
-//  Copyright 2022 Grigorios Piperagkas. 
+//  Copyright 2022 Grigorios Piperagkas.  All rights reserved.
 //  3-clause BSD License
 //
 //
